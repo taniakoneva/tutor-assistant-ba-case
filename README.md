@@ -23,17 +23,4 @@
 | Дорожная карта пилота | 8 недель, вехи, критерии готовности, роли, риски | [`src/03-pilot-roadmap.xlsx`](./src/03-pilot-roadmap.xlsx) |
 | Работа с заказчиком и командой | Формат, частота, фокус коммуникации | [`src/04-team-communication.pdf`](./src/04-team-communication.pdf) |
 
-### Проектное решение (как если бы аналитика была завершена)
-
-| Артефакт | Файл |
-|---|---|
-| Функциональные требования | [`solution/01-functional-requirements.md`](./solution/01-functional-requirements.md) |
-| Нефункциональные требования | [`solution/02-non-functional-requirements.md`](./solution/02-non-functional-requirements.md) |
-| Матрица ролей и доступа | [`solution/03-roles-access-matrix.md`](./solution/03-roles-access-matrix.md) |
-| User Stories (беклог) | [`solution/04-user-stories.md`](./solution/04-user-stories.md) |
-| Модель данных (ER) | [`solution/05-data-model.md`](./solution/05-data-model.md) |
-| API-контракт | [`solution/06-api-contract.md`](./solution/06-api-contract.md) |
-| Логика AI-модуля | [`solution/07-ai-module-logic.md`](./solution/07-ai-module-logic.md) |
-| Метрики успеха | [`solution/08-success-metrics.md`](./solution/08-success-metrics.md) |
-
 Диаграммы — в [`diagrams/`](./diagrams).
